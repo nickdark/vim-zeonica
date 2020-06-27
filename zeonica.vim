@@ -1,6 +1,6 @@
 " Zeonica Colorscheme
 " Maintainer:	Nicholas Prieto
-" Last Change:	April 23rd, 2020
+" Last Change:	May 12th, 2020
 
 set background=dark
 hi clear
